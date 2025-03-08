@@ -1,0 +1,16 @@
+.NavChild {
+    background-color: lightgray;
+    color: white;
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    height: 10px;
+}
+
+.NavChild:hover {
+    background-color: #e4e4e4;
+    color: white;
+    cursor: pointer;
+}

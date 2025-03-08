@@ -1,0 +1,18 @@
+.Nav{
+
+    width: 98%;
+    padding-left: 1%;
+    padding-right: 1%;
+    height: 50px;
+    background-color: #333;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.NavLogo{
+    height: 35px;
+}
+.NavChilds{
+    display: flex;
+    align-items: center;
+}
